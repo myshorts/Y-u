@@ -7,7 +7,7 @@ let letter = document.querySelector("#letter");
 
 const letterText = 
 
-"Gửi em,            Khi em đọc được những dòng chữ này, đó chính là lúc mà anh đã đủ can đảm và bản lĩnh để có thể nói ra tiếng lòng mình. Cám ơn em, đã cho anh cơ hội để được quen em và tìm hiểu em thời gian qua. Mặc dù khoảng thời gian đó không là quá dài. Tình yêu thì không thể chỉ thể hiện qua những lòi nói được, nhưng anh vẫn mong muốn mình có thể được hành động. Thời gian qua anh đã có được những cái nhìn về chủ quan về con người của em. Anh cũng đã cảm nhận được những sự tương đồng giữa hai chúng ta. Và thực sự trái tim với nhiều lớp phòng thủ này đã có cơ hội để tháo gỡ ra lớp hộ vệ đó. Anh không dám chắc anh sẽ là người tốt nhất với em, nhưng anh dám chắc rằng anh sẽ là người cố gắng nhất để em có thể cười nhiều nhất."                       
+"Gửi em,khi em đọc được những dòng chữ này, đó chính là lúc mà anh đã đủ can đảm và bản lĩnh để có thể nói ra tiếng lòng mình. Cám ơn em, đã cho anh cơ hội để được quen em và tìm hiểu em thời gian qua. Mặc dù khoảng thời gian đó không là quá dài. Tình yêu thì không thể chỉ thể hiện qua những lời nói được, nên anh mong muốn mình có thể được hành động. Thời gian qua anh đã có cảm nhận về con người của em. Anh cũng đã cảm nhận được những sự tương đồng giữa hai chúng ta. Và thực sự trái tim với nhiều lớp phòng thủ này đã có cơ hội để tháo gỡ ra lớp hộ vệ đó. Anh không dám chắc anh sẽ là người tốt nhất với em, nhưng anh dám chắc rằng anh sẽ là người cố gắng nhất để em có thể cười nhiều nhất."                       
 
 ;
 let i = 0;
